@@ -1,0 +1,6 @@
+#ifndef GEMMIR_CONFIG_H
+#define GEMMIR_CONFIG_H
+
+#define LLVM_PACKAGE_VERSION "@LLVM_PACKAGE_VERSION@"
+
+#endif
